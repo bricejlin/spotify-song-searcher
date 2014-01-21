@@ -1,5 +1,7 @@
 Spotify Search
 
+Playing around with Spotify's metadata API
+
 info
   num_results
   limit
